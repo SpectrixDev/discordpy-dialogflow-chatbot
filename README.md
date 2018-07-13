@@ -8,8 +8,8 @@
 <br />
 <h2> Ok, how do I get started? </h2>
 <p> You'll need to install the module apiai. Currently this is what I use for the repo. I'm not sure if this
-  works with dialogflowv2 agents, so it's best to set yours to dialogflowv1. To install, simply do:
-  <strong><em>pip install apiai</em></strong>
+  works with dialogflowv2 agents, so it's best to set yours to dialogflowv1. To install, simply do: <br /><br />
+  <strong><em>pip install apiai</em></strong> <br /><br />
   Then make sure to <em>import apiai</em></p>
 <br />
 <h2> Your code sucks, can I please make it better? </h2>
